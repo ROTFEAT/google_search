@@ -36,4 +36,3 @@ params = {
 
 response = requests.get('https://www.google.com/search', params=params, headers=headers)
 a = 1
-/Users/wyx/Documents/GIthub/google_search
